@@ -9,7 +9,7 @@ export default function HomePage() {
             <div className="flex items-center">
               <h1 className="text-xl font-bold text-gray-900">Auth System</h1>
             </div>
-            <div className="flex itemscenter space-x-4">
+            <div className="flex items-center space-x-4">
               <Link
                 href="/login"
                 className="text-gray-700 hover:text-gray-900 px-3 py-2 rounded-md text-sm font-medium"
